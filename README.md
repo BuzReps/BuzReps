@@ -1,6 +1,6 @@
-# [![BuzReps header](./res/header.png)](https://github.com/BuzReps)
+# [![BuzReps header](https://raw.githubusercontent.com/BuzReps/BuzReps/master/res/header.png)](https://github.com/BuzReps)
 
-## <img src="./res/wave.gif" width="30px"> Hello there
+## <img src="https://raw.githubusercontent.com/BuzReps/BuzReps/master/res/wave.gif" width="30px"> Hello there
 
 Hi, i am Vladislav, a 20 year old student from Belarus.
 

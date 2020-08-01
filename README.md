@@ -6,7 +6,7 @@ Hi, i am Vladislav, a 20 year old student from Belarus.
 
 ## Fields of interest
 
-I’m interested in desktop software development, especially in native apps written on C/C++.
+I’m interested in desktop software development, especially in native apps written in C/C++.
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=06cc8d)
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=06cc8d)

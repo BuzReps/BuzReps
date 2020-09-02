@@ -1,7 +1,6 @@
 # [![BuzReps header](https://raw.githubusercontent.com/BuzReps/BuzReps/master/res/header.png)](https://github.com/BuzReps)
 
-## Hello there <img style="transform: rotateY(180deg);" src="https://raw.githubusercontent.com/BuzReps/BuzReps/master/res/wave.gif" width="30px">
-
+## Hello there  
 Hi, i am Vladislav, a 20 year old student from Belarus.
 
 ## Fields of interest

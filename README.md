@@ -7,9 +7,9 @@ Hi, i am Vladislav, a 20 year old student from Belarus.
 
 I’m interested in desktop software development, especially in native apps written in C/C++.
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=06cc8d)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=06cc8d)
 ![](https://img.shields.io/badge/Language-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=06cc8d)
-![](https://img.shields.io/badge/IDE-MSVS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=06cc8d)
+![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=JetBrains&logoColor=white&color=06cc8d)
 
 
 ## GitHub Stats

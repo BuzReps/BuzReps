@@ -11,7 +11,7 @@ I’m interested in desktop software development, especially in native apps writ
 
 
 <a href="https://github.com/BuzReps/BuzReps">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuzReps&hide=cmake,qmake,objective-c&theme=graywhite&layout=default" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuzReps&hide=cmake,makefile,qmake,objective-c&theme=graywhite&layout=default" />
 </a>
 <a href="https://github.com/BuzReps/BuzReps">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=BuzReps&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=graywhite&hide=stars" alt="Repository Stats" />

@@ -1,5 +1,5 @@
 ## Hello there  
-Hi, i am Vladislav, a 20 year old student from Belarus.  
+Hi, i am Vladislav, a 21 year old junior developer from Belarus.  
 I’m interested in desktop software development, especially in native apps written in C/C++.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=d3d4d5)

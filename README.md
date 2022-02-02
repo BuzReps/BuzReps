@@ -4,7 +4,7 @@
 Hi, i am Vladislav, a 22 year old junior developer from Belarus.
 I’m interested in desktop software development, especially in native apps written in C/C++.
                                                                                                >(.)__ <(.)__ =(.)__
-                                                                                                (___/  (___/  (___/  quack
+                                                                                                (___/  (___/  (___/
   </pre>
 </span>
 

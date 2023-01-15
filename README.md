@@ -1,7 +1,7 @@
 ## Hello there
 <span style="font-family: Hack;">
     <pre>
-Hi, i am Vladislav, a 22 year old junior developer from Belarus.
+Hi, i am Vladislav, a 23 year old developer from Belarus.
 I’m interested in desktop software development, especially in native apps written in C/C++.
                                                                                                >(.)__ <(.)__ =(.)__
                                                                                                 (___/  (___/  (___/
